@@ -2,4 +2,4 @@ vendor
 composer.json
 .mypy_cache
 web
-compose.lock
+composer.lock
